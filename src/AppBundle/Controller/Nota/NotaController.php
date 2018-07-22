@@ -9,7 +9,9 @@
 namespace AppBundle\Controller\Nota;
 
 
-class NotaController
+use FOS\JsRoutingBundle\Controller\Controller;
+
+class NotaController extends Controller
 {
 
 }

@@ -93,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Usuario/login.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotaController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Nota/NotaController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -189,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/Usuario/registro_usuario.html.twig" />
         <option value="$PROJECT_DIR$/src/AppBundle/Resources/views/Usuario/login.html.twig" />
         <option value="$PROJECT_DIR$/src/AppBundle/Repository/UsuariosRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/Nota/NotaController.php" />
       </list>
     </option>
   </component>
@@ -316,6 +326,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
               <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Nota" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taskapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taskapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
               <item name="Ticket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -413,15 +431,16 @@
       <workItem from="1531942519030" duration="23110000" />
       <workItem from="1532026994899" duration="22952000" />
       <workItem from="1532112060779" duration="28146000" />
-      <workItem from="1532196828454" duration="32879000" />
+      <workItem from="1532196828454" duration="33247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169782000" />
+    <option name="totallyTimeSpent" value="170150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32857144" />
@@ -562,9 +581,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Tarea/lista_tareas.html.twig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Nota/NotaController.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Ticket/lista_ticket.html.twig">
@@ -779,6 +795,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Nota/NotaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
         </state>
       </provider>
     </entry>
